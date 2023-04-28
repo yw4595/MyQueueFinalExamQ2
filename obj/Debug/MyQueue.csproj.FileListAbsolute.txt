@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\MyQueue\obj\Debug\MyQueue.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\MyQueue\obj\Debug\MyQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\MyQueue\obj\Debug\MyQueue.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\MyQueue\bin\Debug\MyQueue.exe.config
+C:\Users\Wiz\Desktop\IGME 201\MyQueue\bin\Debug\MyQueue.exe
+C:\Users\Wiz\Desktop\IGME 201\MyQueue\bin\Debug\MyQueue.pdb
+C:\Users\Wiz\Desktop\IGME 201\MyQueue\obj\Debug\MyQueue.exe
+C:\Users\Wiz\Desktop\IGME 201\MyQueue\obj\Debug\MyQueue.pdb
